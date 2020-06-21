@@ -1,3 +1,7 @@
+= Hello, Godot!
+
+Experimenting with the Godot game engine a little. I would love to drive it with a Lisp (probably Chicken Scheme thorough C?) but I'm not really sure how right now.
+
 == Dependencies
 
  * `chicken` and `gcc@5` from brew.
