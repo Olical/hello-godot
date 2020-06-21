@@ -1,0 +1,4 @@
+== Dependencies
+
+ * `chicken` and `gcc@5` from brew.
+ * `godot` as a snap.
